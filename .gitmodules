@@ -1,0 +1,3 @@
+[submodule "bitcoin-rnn"]
+	path = bitcoin-rnn
+	url = git@github.com:CHABITBlunk/bitcoin-rnn.git
